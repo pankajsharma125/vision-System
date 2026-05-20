@@ -1,0 +1,7 @@
+opencv-python
+numpy
+Pillow
+PyYAML
+ultralytics
+easyocr
+zxing-cpp
